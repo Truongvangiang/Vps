@@ -1,0 +1,2 @@
+# Vps
+ngrok config add-authtoken 2TLM4EjbRVh1lpbWJVA5ngMKM2q_6HQhHmsgp58xMhFsyN6tM
